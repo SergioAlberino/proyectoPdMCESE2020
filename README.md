@@ -1,4 +1,4 @@
-# proyectoPdMCESE2020
+# proyecto PdM CESE2020
 
 Se aplicará una máquina de estados para realizar el control de un robot móvil, 
 se aplicará la modularización en archivos para separar la máquina de estados del hardware (sensores y actuadores).
